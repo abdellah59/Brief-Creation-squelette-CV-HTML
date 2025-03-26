@@ -25,12 +25,12 @@ https://www.figma.com/proto/gRToAY0oBNFtOFTV2lyk8H/CV-wireframe?node-id=1-7405&t
 
 ## 📂 Structure du projet
 
-/mon-cv
-│── index.html         # Page principale du CV en HTML
-│── favicon.ico        # Icône du site
-│── robots.txt         # Directives pour les moteurs de recherche
-│── humans.txt         # Infos sur l'auteur et crédits
-│── README.md          # Explication du projet
+/Brief-Creation-squelette-CV-HTMLmon-cv
+- │── index.html # Page principale du CV en HTML
+- │── favicon.ico        # Icône du site
+- │── robots.txt         # Directives pour les moteurs de recherche
+- │── humans.txt         # Infos sur l'auteur et crédits
+- │── README.md          # Explication du projet
 
 
 ## 🚀 Installation et Exécution de HTML5 BoilerPlate
