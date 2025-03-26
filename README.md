@@ -42,3 +42,18 @@ https://www.figma.com/proto/gRToAY0oBNFtOFTV2lyk8H/CV-wireframe?node-id=1-7405&t
 ✔️ **Accessibilité et lisibilité**  
 ✔️ **Structure adaptée aux écrans (responsive via wireframe)**  
 ✔️ **Fichiers standards inclus (`favicon.ico`, `humans.txt`, `robots.txt`)**  
+
+
+## 📌 Améliorations possibles
+
+- Ajouter du CSS (dans un autre projet)
+
+
+# Auteurs
+
+#### Abdellah
+
+- **GitHub**: [Abdellah](https://github.com/abdellah59)
+
+## 📄 Licence
+Ce projet est sous licence MIT - vous êtes libre de le modifier et de le partager.
